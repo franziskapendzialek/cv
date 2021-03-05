@@ -1,0 +1,31 @@
+body {
+  background-color: #fcf8e8;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #d4e2d4;
+  border-width: 5px;
+  width: 25%;
+}
+
+img {
+   width: 250px;
+}
+
+h1 {
+  color: #ecb390;
+}
+
+h3 {
+  color: #ecb390;
+}
+
+p {
+  font: 12px/14px;
+}
+
+.button:hover {
+  background-color: gold;
+}
